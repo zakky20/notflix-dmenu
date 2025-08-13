@@ -16,7 +16,7 @@ For scraping script use simple gnu utils like sed, awk, paste, cut.
 
 ## Requirements
 
-* [webtorrent-cli](https://github.com/webtorrent/webtorrent-cli) - A tool to stream torrent. `sudo npm install webtorrent-cli -g` or `paru -S webtorrent-cli` for Arch Linux Users
+* [webtorrent-cli](https://github.com/webtorrent/webtorrent-cli) - A tool to stream torrent. `sudo npm install webtorrent-cli -g` or `paru -S webtorrent-cli` / `yay -S webtorrent-cli`  for Arch Linux Users
 
 ## Installation
 
