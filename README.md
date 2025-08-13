@@ -1,5 +1,5 @@
 <h1 align="center">NOTFLIX</h1>
-<p align="center">f@#k netflix use notflix a tool which search magnet links and stream it with peerflix</p>
+<p align="center">f@#k netflix use notflix a tool which search magnet links with dmenu and streams it with webtorrent-cli</p>
 
 ##
 <p align="center">
