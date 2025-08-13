@@ -24,11 +24,11 @@ For scraping script use simple gnu utils like sed, awk, paste, cut.
 cURL **notflix** to your **$PATH** and give execute permissions.
 
 ```sh
-SUDO:
+If you are using sudo:
 sudo curl -sL "https://raw.githubusercontent.com/zakky20/notflix-dmenu/master/notflix" -o /usr/local/bin/notflix
 sudo chmod +x /usr/local/bin/notflix
 
-DOAS:
+If you are using doas instead of sudo:
 doas curl -sL "https://raw.githubusercontent.com/zakky20/notflix-dmenu/master/notflix" -o /usr/local/bin/notflix
 doas chmod +x /usr/local/bin/notflix
 ```
