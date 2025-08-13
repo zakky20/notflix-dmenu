@@ -2,7 +2,7 @@
 
 mkdir -p $HOME/.cache/notflix
 
-menu="dmenu -i -l 25"
+menu="dmenu -i -l 20"
 baseurl="https://1337x.to"
 cachedir="$HOME/.cache/notflix"
 
@@ -72,4 +72,4 @@ if [ -z "$magnet" ]; then
     exit 0
 fi
 webtorrent "$magnet" --mpv
-notify-send "Enjoy Watching" -i "NONE"
+notify-send "Enjoy!" -i "NONE"
