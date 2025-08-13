@@ -1,6 +1,5 @@
 <h1 align="center">NOTFLIX</h1>
 <p align="center">f@#k netflix use notflix a tool which search magnet links with dmenu and streams it with webtorrent-cli</p>
-
 ##
 <p align="center">
 <img src="./notflix.gif" alt="Video Preview" width="500px">
