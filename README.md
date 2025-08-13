@@ -14,7 +14,7 @@ This is a dmenu script. It searches 1337x and gets the magnet link for which med
 After this it uses [webtorrent-cli](https://github.com/webtorrent/webtorrent-cli) to stream the video with mpv from the magnet link.
 For scraping script it uses simple gnu utils like sed, awk, paste, grep, cut.
 
-## Requirements
+## Requirements / Dependencies
 
 * [webtorrent-cli](https://github.com/webtorrent/webtorrent-cli) - A tool to stream torrent. `sudo npm install webtorrent-cli -g` or `paru -S webtorrent-cli` / `yay -S webtorrent-cli` for Arch Linux Users
 
