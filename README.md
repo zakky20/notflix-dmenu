@@ -12,7 +12,7 @@
 
 This is a dmenu script. It searches 1337x and gets the magnet link for which media u choose.
 After this it uses [webtorrent-cli](https://github.com/webtorrent/webtorrent-cli) to stream the video with mpv from the magnet link.
-For scraping script it uses simple gnu utils like sed,awk,paste,grep,cut.
+For scraping script it uses simple gnu utils like sed, awk, paste, grep, cut.
 
 ## Requirements
 
