@@ -10,7 +10,7 @@
 
 ### How does this work?
 
-This is a shell script. It scape 1337x and get the magnet link.
+This is a dmenu script. It scape 1337x and get the magnet link.
 After this it use [webtorrent-cli](https://github.com/webtorrent/webtorrent-cli) to stream the video with mpv from magnet link.
 For scraping script use simple gnu utils like sed, awk, paste, cut.
 
