@@ -1,6 +1,8 @@
 <h1 align="center">NOTFLIX</h1>
 <p align="center">f@#k netflix use notflix a tool which search magnet links and stream it with peerflix</p>
-![notflix](https://github.com/user-attachments/assets/658a1211-fd12-4ca2-a660-ada00d805398)
+
+https://github.com/user-attachments/assets/f88ffdd6-4d5f-4912-a8c4-21ea83935812
+
 
 > Watch this video to understand - [bugswriter's notflix](https://youtu.be/FbE19_omaWY)
 
